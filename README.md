@@ -5,8 +5,6 @@
 <img width="40%" align="right" src="coding.gif" >
 A bit about myself, I am Hetvi Bagdai pursuing my <b>Computer Science Degree</b>💻 currently in pre-final year from <b>Indian Institute of Technology Ropar🏫</b>. I am a caffeine-fueled alchemist who turns coffee☕ into code and ideas into reality. As of now, I am focused on <b>Competitive Programming, Data Structures algortihms, OOPS </b> but still wish to explore many fields.⚡
 
-<h3 align="center">Competitive&nbsp;Programmer</h3>
-
 <br>
 
 <div align="center">

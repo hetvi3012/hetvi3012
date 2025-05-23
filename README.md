@@ -21,15 +21,13 @@ A bit about myself, I am Hetvi Bagdai 👦 pursuing my <b>Computer Science Degre
 
 # 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/anant-prakash-singh-625b21224" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="anant-prakash-singh-625b21224" height="35" width="35" /></a> &nbsp;
-<a href="https://twitter.com/anant733n" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="anant733n" height="35" width="35" /></a> &nbsp;
-<a href="https://www.discordapp.com/users/theviking733n" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="anant733n" height="35" width="35" /></a> &nbsp;
-<a href="https://www.instagram.com/anant733n" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="anant733n" height="35" width="35" /></a> &nbsp;
-<a href="https://codeforces.com/profile/theviking733n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="theviking733n" height="40" width="40" /></a> &nbsp;
-<a href="https://www.leetcode.com/theviking733n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theviking733n" height="35" width="35" /></a> &nbsp;
-<a href="https://www.codechef.com/users/theviking733n" target="blank"><img align="center" src="codechef.png" alt="theviking733n" height="40" width="40" /></a> &nbsp;
-<a href="https://auth.geeksforgeeks.org/user/anant733n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anant733n" height="50" width="60" /></a> &nbsp;
-<a href="https://stackoverflow.com/users/17778794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17778794" height="35" width="35" /></a>
+<a href="https://www.linkedin.com/in/hetvi-bagdai/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="hetvi-bagdai" height="35" width="35" /></a> &nbsp;
+<a href="https://www.instagram.com/bagdaihetvi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="bagdaihetvi" height="35" width="35" /></a> &nbsp;
+<a href="https://codeforces.com/profile/chadification" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chadification" height="40" width="40" /></a> &nbsp;
+<a href="https://www.leetcode.com/hetvi301204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hetvi301204" height="35" width="35" /></a> &nbsp;
+<a href="https://www.codechef.com/users/hetvi3012" target="blank"><img align="center" src="codechef.png" alt="hetvi3012" height="40" width="40" /></a> &nbsp;
+<a href="https://auth.geeksforgeeks.org/user/hetnil04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hetnil04" height="50" width="60" /></a> &nbsp;
+<a href="https://stackoverflow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="35" width="35" /></a>
 </p>
 
 

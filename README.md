@@ -78,11 +78,6 @@ Logo  | Project Name | Description |
   <tr>
   <td align="center">
     <a href="#go-nowhere">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hetvi3012&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10">
-    </a>
-  </td>
-  <td align="center">
-    <a href="#go-nowhere">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetvi3012&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
     </a>
   </td>

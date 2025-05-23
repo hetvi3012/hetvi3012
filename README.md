@@ -5,9 +5,9 @@
 <h1> 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="Hi.gif" width="30"></h1>
 
 <img width="40%" align="right" src="coding.gif" >
-A bit about myself, I am <a href="https://anant-prakash-singh.vercel.app/">Anant Prakash Singh</a> 👦 pursuing my <b>Computer Science Degree</b>💻 currently in pre-final year from <b>Indian Institute of Technology Ropar🏫</b>. I am a caffeine-fueled alchemist who turns coffee☕ into code and ideas into reality. As of now, I am focused on <b>Competitive Programming, Web Development and Backend Engineering</b> but still wish to explore many fields.⚡
+A bit about myself, I am Hetvi Bagdai 👦 pursuing my <b>Computer Science Degree</b>💻 currently in pre-final year from <b>Indian Institute of Technology Ropar🏫</b>. I am a caffeine-fueled alchemist who turns coffee☕ into code and ideas into reality. As of now, I am focused on <b>Competitive Programming, Data Structures algortihms, OOPS </b> but still wish to explore many fields.⚡
 
-<h3 align="center">Competitive&nbsp;Programmer | Passionate&nbsp;Web&nbsp;Developer</h3>
+<h3 align="center">Competitive&nbsp;Programmer</h3>
 
 <br>
 

@@ -64,26 +64,26 @@ Logo  | Project Name | Description |
 <!-- Streak -->
 <p align="center">
 <a href="#go-nowhere">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheViking733n&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="TheViking733n" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetvi3012&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="hetvi3012" />
 </a>
 </p>
 
 
 
 <!-- Trophies -->
-<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=TheViking733n&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="TheViking733n" /></a> </p>
+<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=hetvi3012&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="hetvi3012" /></a> </p>
 
 
 <table align="center">
   <tr>
   <td align="center">
     <a href="#go-nowhere">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheViking733n&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hetvi3012&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true&langs_count=10">
     </a>
   </td>
   <td align="center">
     <a href="#go-nowhere">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheViking733n&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetvi3012&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true">
     </a>
   </td>
 </table>
@@ -91,20 +91,20 @@ Logo  | Project Name | Description |
 
 <div align="center">
 
-  [![GitHub followers](https://img.shields.io/github/followers/TheViking733n.svg?style=social&label=Follow)](https://github.com/TheViking733n?tab=followers)
+  [![GitHub followers](https://img.shields.io/github/followers/hetvi3012.svg?style=social&label=Follow)](https://github.com/hetvi3012?tab=followers)
 
 </div>
 
 <!-- <table>
   <tr>
-   <td><img src="https://github-readme-stats.vercel.app/api?username=TheViking733n&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Anant Prakash Singh" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheViking733n&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Anant Prakash Singh" /></td>
+   <td><img src="https://github-readme-stats.vercel.app/api?username=hetvi3012&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Anant Prakash Singh" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hetvi3012&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Anant Prakash Singh" /></td>
   </tr>
 </table> -->
 
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=TheViking733n&icon=0&color=0)](https://visitcount.itsvg.in) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=hetvi3012&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 
 
@@ -112,10 +112,10 @@ Logo  | Project Name | Description |
 
 
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=TheViking733n&show_icons=true&theme=radical) -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=TheViking733n&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=TheViking733n&theme=dark&hide_border=true)<br/> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheViking733n&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=hetvi3012&show_icons=true&theme=radical) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=hetvi3012&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=hetvi3012&theme=dark&hide_border=true)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hetvi3012&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
 
 <!-- ### ✍️ Random Dev Quote -->
@@ -127,9 +127,9 @@ Logo  | Project Name | Description |
 
 <!-- <div align="center"> -->
 
-  <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheViking733n&theme=dark" alt="TheViking" /></p> -->
+  <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetvi3012&theme=dark" alt="TheViking" /></p> -->
 
-  <!-- [![TheViking733n's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TheViking733n&theme=xcode)](https://git.io/TheViking733n) -->
+  <!-- [![hetvi3012's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hetvi3012&theme=xcode)](https://git.io/hetvi3012) -->
 
   <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder) -->
 

@@ -10,12 +10,6 @@ A bit about myself, I am Hetvi Bagdai pursuing my <b>Computer Science Degree</b>
 <br>
 <br>
 
-<div align="center">
-
-[![Projects](https://img.shields.io/badge/portfolio-%23430098?style=for-the-badge)](https://anant-prakash-singh.vercel.app)
-  
-</div>
-
 <br>
 
 # 🌐 Connect with me:
@@ -44,11 +38,7 @@ Looking forward to collaborate on some amazing projects. Let's get in touch and 
 
 I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
 
-<div align="center">
 
-  [![Projects](https://img.shields.io/badge/my_projects-%23430098?style=for-the-badge)](https://anant-prakash-singh.vercel.app/projects)
-  
-</div>
 
 <!-- <h1 align="center">Projects</h1>
 
